@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 jhkh
+=======
+n,nn
+>>>>>>> 9827901 (modified a.txt in b2)
 learning git
