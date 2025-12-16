@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Second Time
 
 Modify
+=======
+Second Time
+>>>>>>> fd585aa (second commit)
